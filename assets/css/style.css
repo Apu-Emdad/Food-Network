@@ -158,6 +158,12 @@ a{
     font-size: 24px;
 
 }
+.addition .add1 p{
+    font-family: Poppins;
+    color: #362929;
+}
+
+
 .addition .paying-method img{
     margin-left: 100px;
 }
